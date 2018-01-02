@@ -29,25 +29,25 @@ Onwards towards tearing apart the sample app and building something really cool!
 
 As well, I did a warm up algo: take a number and reduce it by adding the digits together until you have only 1 digit:
 
-```
+```javascript
   // possible number by adding each digit in the number.
   // Hint: the returned number should be in the range of 0 - 9
 
   function oneDigitPlease(num) {
-  var numArr;
-  while (num > 9 ) {
-    numArr = num.toString().split("").map(Number);
-    num = reduceIt(numArr);
-  } 
-  return num;
+    var numArr;
+    while (num > 9 ) {
+      numArr = num.toString().split("").map(Number);
+      num = reduceIt(numArr);
+    } 
+    return num;
   }
 
   function reduceIt(numArr) {
-  while (numArr.length > 0) {
-    return  numArr.reduce((accum, item) => {
-      return accum + item;
-    });
-  }
+    while (numArr.length > 0) {
+      return  numArr.reduce((accum, item) => {
+        return accum + item;
+      });
+    }
   }
 
   oneDigitPlease(999);
