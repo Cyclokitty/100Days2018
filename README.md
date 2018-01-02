@@ -20,10 +20,10 @@ Did some set up work yesterday to learn React Native. Had a bit of trouble setti
 YES! I finally sorted out how to run a React Native app on the android studio emulator from the command line!!!
 
 in first terminal tab:
-1.  emulator -avd <name of emulator>
+* emulator -avd <name of emulator>
 
 in second terminal tab:
-2.  react-native run-android
+* react-native run-android
 
 Onwards towards tearing apart the sample app and building something really cool!!
 
