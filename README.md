@@ -53,3 +53,15 @@ As well, I did a warm up algo: take a number and reduce it by adding the digits 
   oneDigitPlease(999);
 
 ```
+
+## Day 3 ##
+### January 3, 2018 ###
+
+Began Salesforce.
+
+Worked on my resume.
+
+Note: work on Android Studio and ATC textbook -- I have the ATC exam soon!
+
+Also: just complete the Scrum Master Exam already!
+
