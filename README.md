@@ -65,3 +65,18 @@ Note: work on Android Studio and ATC textbook -- I have the ATC exam soon!
 
 Also: just complete the Scrum Master Exam already!
 
+## Day 4 ##
+### January 4, 2018 ###
+
+Prepping for an internship interview. Nervous as heck. But I do have a nicely ironed shirt for the occasion. 
+
+More Salesforce class. So far, it's straight forward. We dabbled in creating custom fields. It's a double course: admin and developer. 
+
+More Scrum Master exam studying. 
+
+Good news! I have another interview scheduled for next week for mob dev! 
+
+Finally, worked on React Native. Decided to concentrate on getting from one page to another. Did some mild styling. It looks alright but more importantly it works!
+
+
+
