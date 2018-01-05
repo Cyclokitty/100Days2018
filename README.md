@@ -78,5 +78,14 @@ Good news! I have another interview scheduled for next week for mob dev!
 
 Finally, worked on React Native. Decided to concentrate on getting from one page to another. Did some mild styling. It looks alright but more importantly it works!
 
+## Day 5 ##
+### January 5, 2018 ###
+
+More Salesforce. We now have a pdf text book chock full of info. Even homework. 
+
+Had a very internship placement interview. They sent me a quick React Native assignment -- send a photo to an api. 
+
+
+
 
 
