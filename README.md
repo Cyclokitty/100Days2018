@@ -83,7 +83,9 @@ Finally, worked on React Native. Decided to concentrate on getting from one page
 
 More Salesforce. We now have a pdf text book chock full of info. Even homework. 
 
-Had a very internship placement interview. They sent me a quick React Native assignment -- send a photo to an api. 
+Had a very internship placement interview. They sent me a quick React Native assignment -- send a photo to an api. Looks fun!
+
+
 
 
 
