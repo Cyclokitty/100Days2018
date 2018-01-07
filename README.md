@@ -92,10 +92,12 @@ Worked on the RN assignment. Need to remember:
 
 ```
 
-source ~/.bash_profile
+source $HOME/.bash_profile
 ```
 
 Before setting up the android emulator on a new project.
 Also, make sure the emulator is up and ready before running it.
 
 And I set a background image. yay me!
+
+Tomorrow I'll work on the button and the post and fetch to send the image to a server.
