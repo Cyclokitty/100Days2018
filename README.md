@@ -101,3 +101,10 @@ Also, make sure the emulator is up and ready before running it.
 And I set a background image. yay me!
 
 Tomorrow I'll work on the button and the post and fetch to send the image to a server.
+
+## Day 7 ##
+### January 7, 2018 ###
+
+Practicing android for the ATC exam.
+
+Fiddled some more with the image posting project.
