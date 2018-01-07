@@ -108,3 +108,5 @@ Tomorrow I'll work on the button and the post and fetch to send the image to a s
 Practicing android for the ATC exam.
 
 Fiddled some more with the image posting project.
+
+Really don't like the ATC book. They need an editor on staff for all of the ridiculous errors. Worked on chapter 8 -- async. The lab is coding a fortune telling app.
