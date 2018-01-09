@@ -117,3 +117,7 @@ Really don't like the ATC book. They need an editor on staff for all of the ridi
 Finished the project and it works! Sent it in for a look over.
 
 Next, need to complete the Scrum exam.
+
+Ok, have to do some more work on the project. Display the images from the returned json. Had a momentary brain bubble when I had difficulty reaching into the json. But I go it!
+
+Will display the images tomorrow. 
