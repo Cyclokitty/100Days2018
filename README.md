@@ -120,4 +120,15 @@ Next, need to complete the Scrum exam.
 
 Ok, have to do some more work on the project. Display the images from the returned json. Had a momentary brain bubble when I had difficulty reaching into the json. But I go it!
 
-Will display the images tomorrow. 
+Will display the images tomorrow.
+
+## Day 9 ##
+### January 9, 2018 ###
+
+Ok, still need to display the images. Had a long, busy day.
+
+And still need to do the Scrum exam. See above. Will wake up at 5am to complete it *pinky swear*.
+
+The job interview went well and I was given an assignment to complete by Monday. It's for android dev so sending a string and info about the sender phone to a recipient phone by ble.
+
+Only 3 days until Grad!! Hooray! 
