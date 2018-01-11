@@ -131,4 +131,13 @@ And still need to do the Scrum exam. See above. Will wake up at 5am to complete 
 
 The job interview went well and I was given an assignment to complete by Monday. It's for android dev so sending a string and info about the sender phone to a recipient phone by ble.
 
-Only 3 days until Grad!! Hooray! 
+Only 3 days until Grad!! Hooray!
+
+## Day 10 ##
+### January 10, 2018 ###
+
+Some more Salesforce.
+
+An interesting speaker in class who discussed effective communication. Active listening. Thinking before you speak. Lots of interesting techniques to build on as time rolls.
+
+Worked some more on my image getter. Still need to display the images but now the View is better set up to do that.
