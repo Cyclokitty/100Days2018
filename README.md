@@ -141,3 +141,10 @@ Some more Salesforce.
 An interesting speaker in class who discussed effective communication. Active listening. Thinking before you speak. Lots of interesting techniques to build on as time rolls.
 
 Worked some more on my image getter. Still need to display the images but now the View is better set up to do that.
+
+## Day 11 ##
+### January 11, 2018 ###
+
+FIRST DAY AS AN INTERN!!
+
+Spent some time setting up my laptop. I still need to do a clean install and then I'll finally have xcode.
