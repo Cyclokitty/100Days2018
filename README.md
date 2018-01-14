@@ -148,3 +148,19 @@ Worked some more on my image getter. Still need to display the images but now th
 FIRST DAY AS AN INTERN!!
 
 Spent some time setting up my laptop. I still need to do a clean install and then I'll finally have xcode.
+
+## Day 12 ##
+### January 12, 2018 ###
+
+GRAD DAY!!
+
+And started a clean install on my laptop. Oi, what a long process that was! The high sierra OS bootable version took most of the evening downloading and processing.
+
+## Day 13 ##
+### January 13, 2018 ###
+
+Spent all day setting up Android Studio, java, Xcode. And reinstalling Atom, iTerm2, oh-my-zsh and a dozen different things. Only to seriously mess it all up when I realized my name was spelled incorrectly. I changed it and .... had to start all over again.
+
+*SIGH*
+
+At least the redo wasn't mysterious or complicated. Just another few hours of clean install and re-downloading Android Studio. That thing is huge! But the emulator works from the cli and I finally have Xcode. 
