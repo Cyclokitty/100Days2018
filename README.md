@@ -163,4 +163,11 @@ Spent all day setting up Android Studio, java, Xcode. And reinstalling Atom, iTe
 
 *SIGH*
 
-At least the redo wasn't mysterious or complicated. Just another few hours of clean install and re-downloading Android Studio. That thing is huge! But the emulator works from the cli and I finally have Xcode. 
+At least the redo wasn't mysterious or complicated. Just another few hours of clean install and re-downloading Android Studio. That thing is huge! But the emulator works from the cli and I finally have Xcode.
+
+## Day 14 ##
+### January 14, 2018 ##
+
+Finally, my laptop is fresh as the mountain dew. Even a couple of hours ago, I was still loading components (I'm looking at you, Xcode).
+
+Tried out some React Native tutorials. I'm enjoying the Stephen Grider React Native and Redux course.
