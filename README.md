@@ -171,3 +171,30 @@ At least the redo wasn't mysterious or complicated. Just another few hours of cl
 Finally, my laptop is fresh as the mountain dew. Even a couple of hours ago, I was still loading components (I'm looking at you, Xcode).
 
 Tried out some React Native tutorials. I'm enjoying the Stephen Grider React Native and Redux course.
+
+## Day 15 ##
+### January 15, 2018 ##
+
+First full day as an intern!
+
+Ugh. All the configuring.
+
+## Day 16 ##
+### January 16, 2018 ##
+
+More configuring...
+
+## Day 17 ##
+### January 17, 2018 ##
+
+Some more configuring...
+
+
+## Day 18 ##
+### January 18, 2018 ##
+
+And turns out we were on the wrong branch. *Sigh*
+
+Back to the start.
+
+Configuring...
